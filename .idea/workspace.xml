@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a440749e-59d0-441e-b61c-7b13ed5ff1c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EsempioProgettoPerGit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pippo.java" afterDir="false" />
+    <list default="true" id="a440749e-59d0-441e-b61c-7b13ed5ff1c6" name="Changes" comment="Primo commit con tutti i file">
+      <change afterPath="$PROJECT_DIR$/src/Prova.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pippo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pippo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +45,14 @@
       <option name="presentableId" value="Default" />
       <updated>1671359403921</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primo commit con tutti i file">
+      <created>1671359528464</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671359528464</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,5 +65,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primo commit con tutti i file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primo commit con tutti i file" />
   </component>
 </project>
